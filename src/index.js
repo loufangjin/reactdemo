@@ -1,7 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+//css可以删掉
+/*import './index.css';*/
+
+//跟组件
 import App from './App';
+
+//加快react速度
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
