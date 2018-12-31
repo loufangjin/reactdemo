@@ -11,8 +11,8 @@ import React,{ Component } from "react";
  //fetch-jsonp 的使用 https://github.com/camsong/fetch-jsonp
  //1、安装 cnpm install fetch-jsonp --save
  //2、import FetchJsonp from 'fetch-jsonp'
- import axios from "axios";
- import fetchJsonp from "fetch-jsonp";  
+ import axios from "axios"
+ import fetchJsonp from "fetch-jsonp"
 class JsonpAndAxios extends Component { 
 
 	constructor(props){
